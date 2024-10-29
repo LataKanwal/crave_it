@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "104833201835",
+    "project_id": "craveit-ef4fd",
+    "storage_bucket": "craveit-ef4fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104833201835:android:ef232c24e7b411a57d29ee",
+        "android_client_info": {
+          "package_name": "com.example.crave_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104833201835-to3p5ejfgqo2n0uqfk4o4c4p0odeaod0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crave_it",
+            "certificate_hash": "3d0e01953f2f298ed691082009e97b6c80e333cf"
+          }
+        },
+        {
+          "client_id": "104833201835-uu6e9jv18ttqlpmjnq944p4gmnld4a76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvmLi1HQ1_kKpgYG-uzWTP_KREpa9IaUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104833201835-uu6e9jv18ttqlpmjnq944p4gmnld4a76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
